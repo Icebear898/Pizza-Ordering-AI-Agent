@@ -1,9 +1,3 @@
-# Deepgram Voice Agent Medical Assistant Demo
-
-A demo that shows the [Deepgram Voice Agent API](https://developers.deepgram.com/docs/voice-agent) being used to power a Medical Assistant Voice Agent.
-
-![ui-image](./images/med-assistant.png)
-
 ## What is Deepgram?
 
 [Deepgram’s](https://deepgram.com/) voice AI platform provides APIs for speech-to-text, text-to-speech, and full speech-to-speech voice agents. Over 200,000+ developers use Deepgram to build voice AI products and features.
